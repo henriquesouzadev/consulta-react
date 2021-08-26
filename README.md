@@ -8,10 +8,14 @@
 git clone https://github.com/henriquesouzadev/consulta-react.git
 ```
 
-**Instale as dependências**
+**Comandos**
 
 ```bash
+# Instale as dependências do projeto
 npm install
+
+# Inicie o projeto em modo de desenvolvimento
+npm start
 ```
 
 Acesse `http://localhost:3000/`
