@@ -26,7 +26,7 @@ function App() {
 
   function calculateTotal(arr) {
     let totalPeriodAmount = arr.reduce((acc, item) => ({value: acc.value + item.value}));
-    setTotal(totalPeriodAmount);;;
+    setTotal(totalPeriodAmount);
   }
 
   function handleSubmit(e) {
